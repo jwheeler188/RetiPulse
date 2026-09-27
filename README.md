@@ -65,7 +65,7 @@ Either way, install as the same user that runs NomadNet. Installing doesn't need
 Run as the same user that runs NomadNet:
 
 ```
-git clone <this repo URL>
+git clone https://github.com/jwheeler188/RetiPulse
 cd retipulse
 ./install.sh
 ```
